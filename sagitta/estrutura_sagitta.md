@@ -1,10 +1,10 @@
-### Restruturação do Sagitta do SETIN/ICSA
----
+# Restruturação do Sagitta do SETIN/ICSA
+
 Este documento busca documentar a nova estrutura dos serviços atendidos pelo Setor de Informática (SETIN) do Instituto de Ciências Sociais Aplicadas (ICSA).
 A mudança se deu devido, a estrutura atual estar defasada devido ao tempo que foi implementada e também pela presença de serviços redundantes existentes e novos serviços que o setor passou a atender.
 O objetivo da nova estrutura é organizar os serviços ofertados, dessa forma deixando claro os serviços que são atendidos pelo setor.
 ---
-#### Estrura Antiga do Sagitta
+## Estrura Antiga do Sagitta
 - SETIN (Categoria)
     - Serviços
     - Compartilhamento de arquivos e Pastas
@@ -30,7 +30,7 @@ O objetivo da nova estrutura é organizar os serviços ofertados, dessa forma de
         - Verificação e Configuração de Equipamentos de Rede
     
 
-#### Proposta de Nova Estrutura do Sagitta
+## Proposta de Nova Estrutura do Sagitta
 - SETIN (Categoria)
     - Serviços
     - Verificação de Computadores
