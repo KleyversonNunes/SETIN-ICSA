@@ -1,7 +1,7 @@
 # SOFTWARES
 Os programas utilizados pelo Setor de Informática (SETIN) do ICSA, se enquadram em três categorias principais: gerenciais, administrativos e laboratórios.
 
-## [Gerenciais](./gerencias/)
+## [Gerenciais](./gerenciais/)
 Nessa categoria ficam os programas utilizados pelo SETIN, para gerenciar o parque computacional do instituto, entre eles temos:
 - **Action1**: um SAAS para gerenciar computadores com sistema operacional Windows.
 - **Ansible**: uma plataforma de automação de TI, de código aberto, desenvolvida pela RedHat. Utiliza ssh e Python para esse fim. Serve exclusivamente para ambiente Linux.
